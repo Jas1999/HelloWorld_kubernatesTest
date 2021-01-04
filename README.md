@@ -1,1 +1,1 @@
-Created a basic go hello world following to set up a kubernates cluster to host it on Okteto. This was to learn more about kubernates and how to structure it before applying this the main project at my past coop.
+Created a basic go hello world to set up a kubernates cluster to host it on Okteto, did this following the tutorial on Okteto's site. This was to learn more about kubernates and how to structure the files it before applying this the main project at my past coop along with to test Oktetos technology.
